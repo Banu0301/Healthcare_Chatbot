@@ -1,6 +1,6 @@
 # Healthcare Chatbot with AutoGen Multi-Agent Collaboration
 
-![Healthcare Chatbot](docs/healthcare_chatbot_demo.png)  <!-- Optional: add your screenshot here -->
+
 
 ## Overview
 
